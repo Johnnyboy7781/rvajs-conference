@@ -30,5 +30,5 @@ UPF - Music Technology Group site: https://www.upf.edu/web/mtg
 ## Misc
 Emscripten: https://emscripten.org/  
 Embind: https://emscripten.org/docs/porting/connecting_cpp_and_javascript/embind.html  
-WebAssembly: https://webassembly.org/
-TensorFlow: https://www.tensorflow.org/
+WebAssembly: https://webassembly.org/  
+TensorFlow: https://www.tensorflow.org/  
