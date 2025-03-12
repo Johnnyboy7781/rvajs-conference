@@ -15,6 +15,8 @@ Main site: https://mtg.github.io/essentia.js/
 Tutorials: https://mtg.github.io/essentia.js/docs/api/list_tutorial.html  
 Demos: https://mtg.github.io/essentia.js/examples/  
 Academic Paper: https://transactions.ismir.net/articles/10.5334/tismir.111  
+Repo: https://github.com/MTG/essentia.js
+Demo code: https://github.com/MTG/essentia.js/tree/master/examples/demos
 
 ## Web Audio API Documentation
 Main: https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API  
