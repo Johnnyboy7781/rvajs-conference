@@ -2,6 +2,7 @@
 
 ## Contact
 Email: mcdonnell.jonathan@yahoo.com  
+Linkedin: https://www.linkedin.com/in/jvmcdonnell/  
 
 ## Essentia
 Main site: https://essentia.upf.edu/  
